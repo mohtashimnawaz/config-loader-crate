@@ -14,6 +14,7 @@ Add the crate to your `Cargo.toml`:
 
 ```toml
 [dependencies]
+config_loader = "0.2"
 
 use config_loader::{load_config, validate_config, Validatable};
 use serde::{Deserialize, Serialize};
