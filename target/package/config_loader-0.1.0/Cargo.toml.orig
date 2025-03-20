@@ -1,0 +1,17 @@
+[package]
+name = "config_loader"
+version = "0.1.0"
+edition = "2021"
+description = "A library for loading configuration files (JSON, TOML, YAML) into Rust structs with environment variable overrides and validation."
+authors = ["Mohtashim Nawaz mohtashim3nawaz@gmail.com"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/mohtashimnawaz/config_loader"
+keywords = ["config", "loader", "json", "toml", "yaml"]
+categories = ["configuration"]
+
+[dependencies]
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+toml = "0.8.20"
+serde_yaml = "0.9"
+dotenv = "0.15"
