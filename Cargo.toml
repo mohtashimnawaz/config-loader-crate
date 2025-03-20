@@ -1,5 +1,5 @@
 [package]
-name = "configloader"
+name = "configloader-676"
 version = "0.1.0"
 edition = "2021"
 description = "A library for loading configuration files (JSON, TOML, YAML) into Rust structs with environment variable overrides and validation."
