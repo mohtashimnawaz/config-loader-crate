@@ -1,0 +1,2 @@
+window.ALL_CRATES = ["config_loader","dotenv","equivalent","hashbrown","indexmap","itoa","memchr","proc_macro2","quote","ryu","serde","serde_derive","serde_json","serde_spanned","serde_yaml","syn","toml","toml_datetime","toml_edit","unicode_ident","unsafe_libyaml","winnow"];
+//{"start":21,"fragment_lengths":[15,9,13,12,11,7,9,14,8,6,8,15,13,16,13,6,7,16,12,16,17,9]}
