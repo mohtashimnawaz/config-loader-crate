@@ -7,7 +7,7 @@ authors = ["Mohtashim Nawaz mohtashim3nawaz@gmail.com"]
 license = "MIT OR Apache-2.0"
 repository = "https://github.com/mohtashimnawaz/config_loader"
 keywords = ["config", "loader", "json", "toml", "yaml"]
-categories = ["configuration"]
+categories = ["config"]
 
 [dependencies]
 serde = { version = "1.0", features = ["derive"] }
